@@ -11,7 +11,7 @@
 <h3 align="left">Publications:</h3>
 - A. Arbelle, S. Cohen and T. R. Raviv, ”Dual-Task ConvLSTM-UNet for Instance Seg-
 mentation of Weakly Annotated Microscopy Videos,” in IEEE Transactions on Medical
-Imaging 2022 -  <a href="https://github.com/shakedCohen11/dual_task_convlstm_unet" target="blank"> code </a>
+Imaging 2022  <a href="https://github.com/shakedCohen11/dual_task_convlstm_unet" target="blank"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original.svg" alt="Dual-Task ConvLSTM-UNet" height="30" width="40" /> </a> , <a href="https://ieeexplore.ieee.org/abstract/document/9717246/" target="blank"> <img align="center" src="https://cdn.worldvectorlogo.com/logos/ieee.svg" alt="article" height="30" width="40" /> </a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
