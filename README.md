@@ -2,7 +2,7 @@
 <h3 align="center">A M.Sc student and Researcher at BGU Biomedical Imaging Lab</h3>
 
 - 👨‍🎓 M.Sc. Electrical & Computer Engineering, Ben-Gurion University
-- 👨‍🎓 B.Sc. Mathematics, Ben-Gurion University 
+- 👨‍🎓 B.Sc. Mathematics and Electrical & Computer Engineering, Ben-Gurion University 
   
 - 🔭 I’m currently working on **Deep learning applications for cell microscopy**
 
