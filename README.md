@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shaked Cohen</h1>
 <h3 align="center">A M.Sc student and Researcher at BGU Biomedical Imaging Lab</h3>
 
+- 👨‍🎓 M.Sc. Electrical & Computer Engineering, Ben-Gurion University
+- 👨‍🎓 B.Sc. Mathematics, Ben-Gurion University 
+  
 - 🔭 I’m currently working on **Deep learning applications for cell microscopy**
 
 - 📫 How to reach me **c.shaked11@gmail.com**
