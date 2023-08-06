@@ -8,6 +8,11 @@
 
 - 📫 How to reach me **c.shaked11@gmail.com**
 
+<h3 align="left">Publications:</h3>
+- A. Arbelle, S. Cohen and T. R. Raviv, ”Dual-Task ConvLSTM-UNet for Instance Seg-
+mentation of Weakly Annotated Microscopy Videos,” in IEEE Transactions on Medical
+Imaging 2022 -  [code](../dual_task_convlstm_unet) 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/c-shaked11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="c-shaked11" height="30" width="40" /></a>
